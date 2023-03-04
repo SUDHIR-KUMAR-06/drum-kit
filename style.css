@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+.title{
+    font-size: 5rem;
+    color: aliceblue;
+    font-family: 'Arvo', cursive;
+   text-shadow: 3px 0 red;
+}
+.set{
+    margin: 10% auto;
+}
+.drum{
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;;
+    margin:10px;
+    border: 10px solid #404B69;
+    line-height: 2;
+    font-weight:900 ;
+    color: #DA0463;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: aliceblue;
+}
